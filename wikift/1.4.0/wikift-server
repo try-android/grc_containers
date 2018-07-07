@@ -1,0 +1,1 @@
+FROM wikift/wikift-server:1.4.0
